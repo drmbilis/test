@@ -1,0 +1,111 @@
+.groupIcon {
+  position: absolute;
+  height: 181.02%;
+  width: 110.78%;
+  top: -57.58%;
+  right: -6.3%;
+  bottom: -23.43%;
+  left: -4.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  opacity: 0.15;
+}
+.coyslm4uiaaecsh1Icon,
+.hakkimizda11Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.coyslm4uiaaecsh1Icon {
+  width: 1440px;
+  height: 1024px;
+  display: none;
+}
+.hakkimizda11Icon {
+  width: 1920px;
+  height: 526px;
+}
+.pazarlamaStratejiZmleri,
+.sosyalMedyaYnetimi {
+  margin: 0;
+}
+.sosyalMedyaYnetimiContainer {
+  position: absolute;
+  top: 231px;
+  left: 182px;
+  font-weight: 600;
+}
+.admYaratyoruz,
+.kurumsalWebSiteniz,
+.ynetemezkenSosyalMedya,
+.ynetiyorMarkaVe {
+  margin: 0;
+}
+.kurumsalWebSitenizContainer {
+  position: absolute;
+  top: 326px;
+  left: 182px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.birRnVeya,
+.blankLine,
+.blankLine1,
+.blankLine2,
+.blankLine3,
+.blankLine4,
+.blankLine5,
+.dijitalPazarlamaDa,
+.drmDijitalPazarlama,
+.imizdeKiIddiamz,
+.letmeVeKurumlara,
+.nternetinPazarlamannAlterna,
+.srelerinBtnnEffaf,
+.ylndaBursadaKurulmutur {
+  margin: 0;
+  font-weight: 500;
+}
+.bizOTelefonu,
+.bizeKimseninBilmedii,
+.blankLine6 {
+  margin: 0;
+  font-weight: 600;
+}
+.drmDijitalPazarlamaContainer {
+  position: absolute;
+  top: 698px;
+  left: 182px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 1553px;
+}
+.drmSosyalMedya {
+  position: absolute;
+  top: 610px;
+  left: 183px;
+  font-weight: 600;
+  color: var(--color-dimgray-100);
+}
+.hakkmzdaChild {
+  position: absolute;
+  top: 659px;
+  left: 0;
+  background-color: var(--color-dimgray-100);
+  width: 719px;
+  height: 2px;
+}
+.hakkmzda {
+  width: 100%;
+  position: relative;
+  background-color: var(--beyaz);
+  height: 1596px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--beyaz);
+  font-family: var(--font-montserrat);
+}

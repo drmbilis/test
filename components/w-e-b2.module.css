@@ -1,0 +1,882 @@
+.coyslm4uiaaecsh1Icon,
+.webgel11Icon {
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+.coyslm4uiaaecsh1Icon {
+  top: 0;
+  width: 1440px;
+  height: 1024px;
+  display: none;
+}
+.webgel11Icon {
+  top: 94px;
+  width: 1920px;
+  height: 778px;
+}
+.googleAdsReklamlaryla,
+.iinizleIlgiliArama,
+.kullanclarnKarsnaKn {
+  margin: 0;
+}
+.googleAdsReklamlarylaContainer {
+  position: absolute;
+  top: 403px;
+  left: 182px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--beyaz);
+  text-align: left;
+}
+.webChild {
+  position: absolute;
+  top: 178px;
+  left: 1712px;
+  border-radius: var(--br-3xs);
+  background-color: var(--beyaz);
+  width: 2px;
+  height: 631px;
+}
+.webItem {
+  position: absolute;
+  top: 256px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.ellipseDiv,
+.webInner,
+.webItem {
+  left: 1705px;
+  background-color: var(--beyaz);
+  width: 16px;
+  height: 16px;
+}
+.webInner {
+  position: absolute;
+  top: 412px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.ellipseDiv {
+  top: 568px;
+}
+.ellipseDiv,
+.webChild1,
+.webChild2 {
+  position: absolute;
+  border-radius: 50%;
+}
+.webChild1 {
+  top: 724px;
+  left: 1705px;
+  background-color: var(--beyaz);
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+.webChild2 {
+  top: 571px;
+  left: 1708px;
+  background-color: #a76bcf;
+  width: 10px;
+  height: 10px;
+}
+.component4,
+.groupIcon {
+  position: absolute;
+  top: -11px;
+  left: 0;
+  width: 1440px;
+  height: 123px;
+}
+.groupIcon {
+  height: 77.62%;
+  width: 110.78%;
+  top: 18.4%;
+  right: -4.84%;
+  bottom: 3.98%;
+  left: -5.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  opacity: 0.15;
+}
+.uzmanmzdanDestekAl {
+  position: absolute;
+  top: 2811px;
+  left: 367px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 424px;
+}
+.rectangleDiv,
+.webChild3,
+.webChild4 {
+  position: absolute;
+  top: 2304px;
+  left: 364px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mini);
+  background-color: var(--beyaz);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 359px;
+  height: 440px;
+}
+.webChild3,
+.webChild4 {
+  left: 778px;
+  width: 360px;
+}
+.webChild4 {
+  left: 1193px;
+  width: 359px;
+}
+.onlineTibarYnetimi {
+  position: absolute;
+  top: 2510px;
+  left: 426px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 235px;
+}
+.markanzHakkndaDijital,
+.uzmanEkibimizIle {
+  position: absolute;
+  top: 2549px;
+  left: 430px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 226px;
+}
+.uzmanEkibimizIle {
+  left: 849px;
+}
+.bizDijitalPazarlamada,
+.canlRaporlarlaAnlk {
+  margin: 0;
+}
+.bizDijitalPazarlamadaContainer {
+  position: absolute;
+  top: 2549px;
+  left: 1262px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 226px;
+}
+.dnmOptimizasyonu,
+.gerekZamanlStatistikler {
+  position: absolute;
+  top: 2510px;
+  left: 827px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 268px;
+}
+.gerekZamanlStatistikler {
+  left: 1230px;
+  width: 286px;
+}
+.webChild5,
+.webChild6,
+.webChild7 {
+  position: absolute;
+  top: 2334px;
+  left: 469px;
+  width: 149px;
+  height: 148.5px;
+}
+.webChild6,
+.webChild7 {
+  left: 889px;
+  width: 145.8px;
+  height: 145px;
+}
+.webChild7 {
+  top: 3386px;
+  left: 1269px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(89.88deg, #ec631e, #f68d1e);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 283px;
+  height: 39px;
+}
+.adnzVeSoyadnz,
+.ekAklamaVeya {
+  position: absolute;
+  left: 366px;
+  display: inline-block;
+}
+.ekAklamaVeya {
+  top: 3199px;
+  font-weight: 500;
+  text-align: left;
+  width: 627px;
+}
+.adnzVeSoyadnz {
+  top: 3025px;
+}
+.adnzVeSoyadnz,
+.emailAdresiniz,
+.irketinizinAd {
+  font-weight: 500;
+  text-align: left;
+  width: 234px;
+}
+.irketinizinAd {
+  position: absolute;
+  top: 3025px;
+  left: 987px;
+  display: inline-block;
+}
+.emailAdresiniz {
+  top: 3112px;
+  left: 989px;
+}
+.emailAdresiniz,
+.gnder,
+.telefonNumaranz {
+  position: absolute;
+  display: inline-block;
+}
+.telefonNumaranz {
+  top: 3112px;
+  left: 366px;
+  font-weight: 500;
+  text-align: left;
+  width: 234px;
+}
+.gnder {
+  top: 3396px;
+  left: 1345px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--beyaz);
+  width: 131px;
+}
+.webChild8 {
+  position: absolute;
+  top: 2897px;
+  left: 364px;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--lacivert);
+  box-sizing: border-box;
+  width: 289px;
+  height: 39px;
+}
+.webChild10,
+.webChild11,
+.webChild12,
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild9 {
+  position: absolute;
+  top: 3058px;
+  left: 364px;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--lacivert);
+  box-sizing: border-box;
+  width: 565px;
+  height: 39px;
+}
+.webChild10,
+.webChild11,
+.webChild12,
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20 {
+  left: 987px;
+}
+.webChild11,
+.webChild12,
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20 {
+  top: 3145px;
+}
+.webChild12,
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20 {
+  left: 364px;
+}
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20 {
+  top: 3232px;
+  width: 1188px;
+  height: 120px;
+}
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20 {
+  top: 2897px;
+  left: 663px;
+  width: 289px;
+  height: 39px;
+}
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20 {
+  top: 2896px;
+  left: 962px;
+  width: 288px;
+}
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20 {
+  left: 1260px;
+}
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20 {
+  top: 2957px;
+  left: 364px;
+  width: 289px;
+}
+.webChild18,
+.webChild19,
+.webChild20 {
+  top: 2958px;
+  left: 663px;
+}
+.webChild19,
+.webChild20 {
+  top: 2957px;
+  left: 967px;
+  width: 287px;
+}
+.webChild20 {
+  left: 1264px;
+  width: 288px;
+}
+.webTasarm {
+  top: 2907px;
+  left: 457px;
+  text-align: left;
+  width: 103px;
+  height: 19px;
+}
+.dijitalPazarlamaEitimi,
+.sosyalMedya,
+.webTasarm {
+  position: absolute;
+  display: inline-block;
+}
+.sosyalMedya {
+  top: 2906px;
+  left: 1052px;
+  text-align: left;
+  width: 108px;
+  height: 19px;
+}
+.dijitalPazarlamaEitimi {
+  top: 2968px;
+  left: 414px;
+  width: 189px;
+  height: 18px;
+}
+.dier,
+.emailPazarlama,
+.googleAds,
+.mobilUygulama,
+.seo {
+  position: absolute;
+  top: 2967px;
+  left: 1044px;
+  display: inline-block;
+  width: 133px;
+  height: 20px;
+}
+.dier,
+.googleAds,
+.mobilUygulama,
+.seo {
+  left: 1380px;
+  width: 56px;
+}
+.googleAds,
+.mobilUygulama,
+.seo {
+  top: 2969px;
+  left: 789px;
+  width: 37px;
+  height: 18px;
+}
+.googleAds,
+.mobilUygulama {
+  top: 2906px;
+  left: 1358px;
+  text-align: left;
+  width: 92px;
+  height: 19px;
+}
+.mobilUygulama {
+  top: 2907px;
+  left: 741px;
+  width: 133px;
+}
+.webChild21 {
+  position: absolute;
+  top: 2337px;
+  left: 1277px;
+  width: 196.6px;
+  height: 133.7px;
+}
+.webChild22,
+.webChild23 {
+  position: absolute;
+  top: 1315px;
+  left: 0;
+  background-color: var(--lacivert);
+  width: 1920px;
+  height: 906px;
+}
+.webChild23 {
+  top: 1356px;
+  left: 771px;
+  border-radius: var(--br-xl);
+  background-color: var(--beyaz);
+  width: 373px;
+  height: 252px;
+}
+.webChild24,
+.webChild25,
+.webChild26,
+.webChild27,
+.webChild28,
+.webChild29,
+.webChild30,
+.webChild31 {
+  position: absolute;
+  top: 1355px;
+  left: 364px;
+  border-radius: var(--br-xl);
+  background-color: var(--beyaz);
+  width: 374px;
+  height: 253px;
+}
+.webChild25,
+.webChild26,
+.webChild27,
+.webChild28,
+.webChild29,
+.webChild30,
+.webChild31 {
+  left: 1178px;
+}
+.webChild26,
+.webChild27,
+.webChild28,
+.webChild29,
+.webChild30,
+.webChild31 {
+  top: 1642px;
+  left: 364px;
+}
+.webChild27,
+.webChild28,
+.webChild29,
+.webChild30,
+.webChild31 {
+  left: 771px;
+}
+.webChild28,
+.webChild29,
+.webChild30,
+.webChild31 {
+  left: 1178px;
+}
+.webChild29,
+.webChild30,
+.webChild31 {
+  top: 1928px;
+  left: 364px;
+}
+.webChild30,
+.webChild31 {
+  left: 771px;
+}
+.webChild31 {
+  left: 1178px;
+}
+.haritalaraKayt,
+.seoGrnrlVe {
+  position: absolute;
+  top: 1493px;
+  left: 420px;
+  font-weight: 500;
+  display: inline-block;
+  width: 280px;
+}
+.haritalaraKayt {
+  top: 1454px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 234px;
+}
+.mterilerinizleEnSalkl,
+.sosyalMedyaYnetimi {
+  position: absolute;
+  top: 1793px;
+  left: 411px;
+  font-weight: 500;
+  display: inline-block;
+  width: 280px;
+}
+.sosyalMedyaYnetimi {
+  top: 1754px;
+  left: 424px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 253px;
+}
+.erikPazarlama,
+.tantmVideolarnzdanKampan {
+  position: absolute;
+  top: 2056px;
+  left: 403px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.erikPazarlama {
+  top: 2017px;
+  left: 434px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 234px;
+}
+.webChild32 {
+  position: absolute;
+  height: 1.34%;
+  width: 2.6%;
+  top: 37.1%;
+  right: 70%;
+  bottom: 61.55%;
+  left: 27.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.webChild33,
+.webChild34 {
+  position: absolute;
+  top: 1673px;
+  left: 523px;
+  width: 55.2px;
+  height: 54px;
+}
+.webChild34 {
+  top: 1946px;
+  left: 524px;
+  width: 53px;
+  height: 52px;
+}
+.seo1,
+.yaptnzIiInternette {
+  position: absolute;
+  top: 1789px;
+  left: 810px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.seo1 {
+  top: 1750px;
+  left: 841px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 234px;
+}
+.aylkVeyaKampanyalarnza,
+.emailMarketing {
+  position: absolute;
+  top: 2052px;
+  left: 810px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.emailMarketing {
+  top: 2013px;
+  left: 841px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 234px;
+}
+.webChild35,
+.webChild36 {
+  position: absolute;
+  top: 1676px;
+  left: 934px;
+  width: 48px;
+  height: 48px;
+}
+.webChild36 {
+  height: 1.34%;
+  width: 2.6%;
+  top: 52.28%;
+  right: 48.8%;
+  bottom: 46.37%;
+  left: 48.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.googleAdsReklamlar,
+.markaBilinirliiniziArtrmak,
+.seoGrnrlVe1 {
+  position: absolute;
+  top: 1480px;
+  left: 810px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.googleAdsReklamlar,
+.markaBilinirliiniziArtrmak {
+  top: 1493px;
+  left: 1217px;
+}
+.googleAdsReklamlar {
+  top: 1454px;
+  left: 1243px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 244px;
+}
+.htiyacnzOlanTm,
+.sunucuDomain {
+  position: absolute;
+  top: 1789px;
+  left: 1217px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.sunucuDomain {
+  top: 1750px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.dijitalPazarlama,
+.htiyacnzOlanTm1,
+.smsPazarlama {
+  position: absolute;
+  top: 2052px;
+  left: 1217px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.dijitalPazarlama,
+.smsPazarlama {
+  top: 2013px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.dijitalPazarlama {
+  top: 1441px;
+  left: 841px;
+  width: 234px;
+}
+.webChild37 {
+  position: absolute;
+  top: 1950px;
+  left: 1345px;
+  width: 40px;
+  height: 48px;
+}
+.webChild38,
+.webChild39 {
+  position: absolute;
+  top: 1378px;
+  left: 931px;
+  width: 54px;
+  height: 54px;
+}
+.webChild39 {
+  top: 1386px;
+  left: 1342px;
+  width: 47px;
+  height: 43px;
+}
+.webChild40,
+.webChild41 {
+  position: absolute;
+  top: 1675px;
+  left: 1341px;
+  width: 49px;
+  height: 49px;
+}
+.webChild41 {
+  top: 957px;
+  left: 364px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 1188px;
+  height: 263px;
+}
+.webChild42,
+.webChild43 {
+  position: absolute;
+  background-color: var(--lacivert);
+}
+.webChild42 {
+  top: 937px;
+  left: 621px;
+  border-radius: var(--br-xl);
+  width: 302px;
+  height: 297px;
+}
+.webChild43 {
+  top: 1000px;
+  left: 1243px;
+  width: 2px;
+  height: 196px;
+}
+.webChild44 {
+  position: absolute;
+  top: 957px;
+  left: 748px;
+  width: 50px;
+  height: 54px;
+}
+.gncelTasarmTrendlerine {
+  position: absolute;
+  top: 1078px;
+  left: 660px;
+  font-weight: 500;
+  color: var(--beyaz);
+  display: inline-block;
+  width: 223px;
+}
+.webMobilGelitirme,
+.webTasarm1 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+}
+.webTasarm1 {
+  top: 1039px;
+  left: 706px;
+  color: var(--beyaz);
+  width: 135px;
+}
+.webMobilGelitirme {
+  top: 1038px;
+  left: 970px;
+  width: 234px;
+}
+.mterilerimizinPotansiyeller {
+  position: absolute;
+  top: 1077px;
+  left: 972px;
+  font-weight: 500;
+  display: inline-block;
+  width: 230px;
+}
+.webChild45 {
+  position: absolute;
+  top: 975px;
+  left: 1061px;
+  width: 52px;
+  height: 52px;
+}
+.mobilUygulamalar {
+  position: absolute;
+  top: 1038px;
+  left: 1280px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 234px;
+}
+.mterilerimizinPotansiyeller1 {
+  position: absolute;
+  top: 1077px;
+  left: 1282px;
+  font-weight: 500;
+  display: inline-block;
+  width: 230px;
+}
+.webChild46 {
+  position: absolute;
+  top: 975px;
+  left: 1371px;
+  width: 52px;
+  height: 52px;
+}
+.balca,
+.hizmetlerimiz {
+  margin: 0;
+}
+.balcaHizmetlerimiz {
+  position: absolute;
+  top: 1057px;
+  left: 418px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+}
+.web {
+  width: 1920px;
+  background-color: var(--beyaz);
+  max-width: 100%;
+  height: 3722px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--gri);
+  font-family: var(--font-montserrat);
+}

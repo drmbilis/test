@@ -1,0 +1,442 @@
+.component2Child {
+  position: absolute;
+  height: 100%;
+  width: 103.23%;
+  top: 0;
+  right: -3.23%;
+  bottom: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  background-color: var(--beyaz);
+}
+.webMobl,
+.webTasarm {
+  position: absolute;
+  font-weight: 600;
+}
+.webMobl {
+  top: 8.16%;
+  left: 1.7%;
+  color: var(--lacivert);
+}
+.webTasarm {
+  width: 8.61%;
+  top: 23.67%;
+  left: 3.5%;
+  display: inline-block;
+  cursor: pointer;
+}
+.mobilUygulamalar,
+.webYazlmGelitirme,
+.zelYazlmZmleri {
+  position: absolute;
+  top: 35.51%;
+  left: 3.5%;
+  font-weight: 600;
+  cursor: pointer;
+}
+.mobilUygulamalar,
+.zelYazlmZmleri {
+  top: 47.35%;
+}
+.zelYazlmZmleri {
+  top: 59.18%;
+}
+.eTicaretYazlmlar,
+.eTicaretZmleri,
+.emailPazarlama,
+.seo,
+.sosyalMedyaDanmanl {
+  position: absolute;
+  top: 71.02%;
+  left: 3.5%;
+  font-weight: 600;
+  cursor: pointer;
+}
+.eTicaretZmleri,
+.emailPazarlama,
+.seo,
+.sosyalMedyaDanmanl {
+  top: 82.86%;
+}
+.emailPazarlama,
+.seo,
+.sosyalMedyaDanmanl {
+  top: 23.67%;
+  left: 24.04%;
+}
+.emailPazarlama,
+.sosyalMedyaDanmanl {
+  top: 35.51%;
+}
+.emailPazarlama {
+  top: 47.35%;
+}
+.domainHizmetleri,
+.hostingHizmetleri,
+.sunucuHizmetleri {
+  position: absolute;
+  top: 23.67%;
+  left: 45.83%;
+  font-weight: 600;
+}
+.hostingHizmetleri,
+.sunucuHizmetleri {
+  top: 35.51%;
+}
+.sunucuHizmetleri {
+  top: 47.35%;
+}
+.droneEkimleri,
+.ekimleri,
+.googleHaritalaraKayt,
+.tantmFilmleri {
+  position: absolute;
+  top: 23.67%;
+  left: 64.57%;
+  font-weight: 600;
+}
+.droneEkimleri,
+.ekimleri,
+.tantmFilmleri {
+  left: 84.66%;
+}
+.droneEkimleri,
+.ekimleri {
+  top: 35.51%;
+}
+.droneEkimleri {
+  top: 47.35%;
+}
+.grafikAnimasyon,
+.kurguMontaj,
+.postProdksiyon {
+  position: absolute;
+  top: 59.18%;
+  left: 84.66%;
+  font-weight: 600;
+}
+.grafikAnimasyon,
+.kurguMontaj {
+  top: 71.02%;
+}
+.grafikAnimasyon {
+  top: 82.86%;
+}
+.dierHaritalar,
+.yandexHaritalaraKayt {
+  position: absolute;
+  top: 35.51%;
+  left: 64.57%;
+  font-weight: 600;
+}
+.dierHaritalar {
+  top: 47.35%;
+}
+.erikPazarlama,
+.googleReklamlar,
+.smsPazarlama {
+  position: absolute;
+  top: 59.18%;
+  left: 24.04%;
+  font-weight: 600;
+}
+.erikPazarlama,
+.smsPazarlama {
+  top: 71.02%;
+}
+.erikPazarlama {
+  top: 82.86%;
+}
+.djtalPazarlama,
+.domanHostng,
+.hartalaraKayit,
+.multmedyaProdksyon {
+  position: absolute;
+  top: 8.16%;
+  left: 22.24%;
+  font-weight: 600;
+  color: var(--lacivert);
+}
+.domanHostng,
+.hartalaraKayit,
+.multmedyaProdksyon {
+  left: 44.04%;
+}
+.hartalaraKayit,
+.multmedyaProdksyon {
+  left: 62.78%;
+}
+.multmedyaProdksyon {
+  left: 82.87%;
+}
+.component2Child1,
+.component2Inner,
+.component2Item,
+.rectangleDiv {
+  position: absolute;
+  height: 90.2%;
+  width: 0.18%;
+  top: 4.49%;
+  right: 79.46%;
+  bottom: 5.31%;
+  left: 20.36%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-dimgray-200);
+}
+.component2Child1,
+.component2Inner,
+.rectangleDiv {
+  right: 57.67%;
+  left: 42.15%;
+}
+.component2Child1,
+.rectangleDiv {
+  right: 38.92%;
+  left: 60.9%;
+}
+.component2Child1 {
+  right: 18.83%;
+  left: 80.99%;
+}
+.groupIcon {
+  position: absolute;
+  height: 6.65%;
+  width: 1.17%;
+  top: 22.86%;
+  right: 97.12%;
+  bottom: 70.49%;
+  left: 1.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component2Child2,
+.component2Child3,
+.component2Child4,
+.component2Child5,
+.component2Child6,
+.component2Child7 {
+  position: absolute;
+  height: 5.51%;
+  width: 1.17%;
+  top: 35.92%;
+  right: 97.13%;
+  bottom: 58.57%;
+  left: 1.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component2Child3,
+.component2Child4,
+.component2Child5,
+.component2Child6,
+.component2Child7 {
+  height: 6.24%;
+  top: 47.76%;
+  bottom: 46%;
+}
+.component2Child4,
+.component2Child5,
+.component2Child6,
+.component2Child7 {
+  height: 5.51%;
+  top: 59.59%;
+  bottom: 34.9%;
+}
+.component2Child5,
+.component2Child6,
+.component2Child7 {
+  top: 24.08%;
+  right: 76.59%;
+  bottom: 70.41%;
+  left: 22.24%;
+}
+.component2Child6,
+.component2Child7 {
+  height: 5.02%;
+  top: 36.73%;
+  bottom: 58.24%;
+}
+.component2Child7 {
+  height: 5.8%;
+  top: 47.76%;
+  bottom: 46.45%;
+}
+.component2Child10,
+.component2Child11,
+.component2Child12,
+.component2Child13,
+.component2Child8,
+.component2Child9 {
+  position: absolute;
+  height: 5.88%;
+  width: 1.17%;
+  top: 59.59%;
+  right: 76.59%;
+  bottom: 34.53%;
+  left: 22.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component2Child10,
+.component2Child11,
+.component2Child12,
+.component2Child13,
+.component2Child9 {
+  height: 5.35%;
+  top: 72.24%;
+  bottom: 22.41%;
+}
+.component2Child10,
+.component2Child11,
+.component2Child12,
+.component2Child13 {
+  height: 5.76%;
+  width: 1.14%;
+  top: 84.08%;
+  right: 76.62%;
+  bottom: 10.16%;
+}
+.component2Child11,
+.component2Child12,
+.component2Child13 {
+  height: 4.57%;
+  width: 1.17%;
+  top: 24.78%;
+  right: 54.71%;
+  bottom: 70.65%;
+  left: 44.13%;
+}
+.component2Child12,
+.component2Child13 {
+  height: 5.22%;
+  top: 36.33%;
+  bottom: 58.45%;
+}
+.component2Child13 {
+  top: 48.41%;
+  bottom: 46.37%;
+}
+.component2Child14,
+.component2Child15,
+.component2Child16,
+.component2Child17,
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 7.35%;
+  width: 1.17%;
+  top: 23.27%;
+  right: 36.05%;
+  bottom: 69.39%;
+  left: 62.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component2Child14,
+.component2Child15,
+.component2Child16,
+.component2Child17,
+.vectorIcon1 {
+  height: 5.22%;
+  top: 35.67%;
+  bottom: 59.1%;
+}
+.component2Child15,
+.component2Child16,
+.component2Child17,
+.vectorIcon1 {
+  height: 5.31%;
+  top: 48.57%;
+  bottom: 46.12%;
+}
+.component2Child15,
+.component2Child16,
+.component2Child17 {
+  height: 4.24%;
+  top: 24.9%;
+  right: 16.23%;
+  bottom: 70.86%;
+  left: 82.6%;
+}
+.component2Child16,
+.component2Child17 {
+  height: 5.71%;
+  width: 1.28%;
+  top: 35.51%;
+  right: 16.12%;
+  bottom: 58.78%;
+}
+.component2Child17 {
+  height: 4%;
+  width: 1.52%;
+  top: 48.98%;
+  right: 15.87%;
+  bottom: 47.02%;
+}
+.component2Child18,
+.component2Child19,
+.component2Child20,
+.component2Child21,
+.groupIcon1 {
+  position: absolute;
+  height: 6%;
+  width: 1.35%;
+  top: 59.92%;
+  right: 16.05%;
+  bottom: 34.08%;
+  left: 82.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component2Child19,
+.component2Child20,
+.component2Child21,
+.groupIcon1 {
+  height: 7.31%;
+  top: 70.73%;
+  bottom: 21.96%;
+}
+.component2Child20,
+.component2Child21,
+.groupIcon1 {
+  height: 6%;
+  top: 83.06%;
+  right: 15.96%;
+  bottom: 10.94%;
+  left: 82.69%;
+}
+.component2Child21,
+.groupIcon1 {
+  height: 5.43%;
+  width: 1.23%;
+  top: 71.96%;
+  right: 97.13%;
+  bottom: 22.61%;
+  left: 1.64%;
+}
+.component2Child21 {
+  height: 6.2%;
+  width: 1.26%;
+  top: 82.86%;
+  right: 97.04%;
+  bottom: 10.94%;
+  left: 1.7%;
+}
+.component2 {
+  width: 1115px;
+  position: relative;
+  height: 245px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--gri);
+  font-family: var(--font-montserrat);
+}

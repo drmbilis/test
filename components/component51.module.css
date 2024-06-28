@@ -1,0 +1,245 @@
+.component9Child {
+  position: absolute;
+  height: 81.96%;
+  width: 100%;
+  top: 18.04%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--beyaz);
+}
+.basnda,
+.blog,
+.eitimler,
+.hakkmzda,
+.letiim,
+.referanslarmz {
+  position: absolute;
+  top: 21.76%;
+  left: 18.06%;
+  font-weight: 600;
+  cursor: pointer;
+}
+.basnda,
+.blog,
+.eitimler,
+.letiim,
+.referanslarmz {
+  top: 43.33%;
+}
+.basnda,
+.blog,
+.eitimler,
+.letiim {
+  top: 54.12%;
+}
+.basnda,
+.blog,
+.letiim {
+  top: 64.9%;
+}
+.blog,
+.letiim {
+  top: 75.69%;
+}
+.letiim {
+  top: 86.47%;
+}
+.component9Item {
+  position: absolute;
+  height: 0.2%;
+  width: 86.11%;
+  top: 29.02%;
+  right: 6.94%;
+  bottom: 70.78%;
+  left: 6.94%;
+  background-color: var(--lacivert);
+}
+.component9Child1,
+.component9Child2,
+.component9Child3,
+.component9Child4,
+.component9Inner,
+.rectangleDiv {
+  position: absolute;
+  height: 0.2%;
+  width: 86.11%;
+  top: 39.61%;
+  right: 6.94%;
+  bottom: 60.2%;
+  left: 6.94%;
+  background-color: var(--lacivert);
+}
+.component9Child1,
+.component9Child2,
+.component9Child3,
+.component9Child4,
+.rectangleDiv {
+  top: 50.78%;
+  bottom: 49.02%;
+}
+.component9Child1,
+.component9Child2,
+.component9Child3,
+.component9Child4 {
+  top: 61.57%;
+  bottom: 38.24%;
+}
+.component9Child2,
+.component9Child3,
+.component9Child4 {
+  top: 72.35%;
+  bottom: 27.45%;
+}
+.component9Child3,
+.component9Child4 {
+  top: 83.73%;
+  bottom: 16.08%;
+}
+.component9Child4 {
+  height: 3.14%;
+  width: 100%;
+  top: 96.86%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.hizmetlerimiz {
+  position: absolute;
+  top: 18.42%;
+  left: 0;
+  font-weight: 600;
+  cursor: pointer;
+}
+.vectorIcon {
+  position: absolute;
+  height: 26.32%;
+  width: 39.47%;
+  top: 36.84%;
+  right: 28.95%;
+  bottom: 36.84%;
+  left: 31.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild,
+.vectorParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.vectorParent {
+  width: 13.52%;
+  left: 86.48%;
+  cursor: pointer;
+}
+.hizmetlerimizParent {
+  position: absolute;
+  height: 7.45%;
+  width: 78.06%;
+  top: 31.18%;
+  right: 3.89%;
+  bottom: 61.37%;
+  left: 18.06%;
+}
+.groupIcon,
+.vectorIcon1 {
+  position: absolute;
+  left: 6.94%;
+  overflow: hidden;
+}
+.vectorIcon1 {
+  height: 3.18%;
+  width: 4.47%;
+  top: 22.55%;
+  right: 88.58%;
+  bottom: 74.27%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupIcon {
+  height: 3.35%;
+  width: 4.75%;
+  top: 32.75%;
+  right: 88.31%;
+  bottom: 63.9%;
+}
+.groupIcon,
+.groupIcon1,
+.groupIcon2 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 3.12%;
+  width: 4.81%;
+  top: 44.12%;
+  right: 87.69%;
+  bottom: 52.76%;
+  left: 7.5%;
+  overflow: hidden;
+}
+.groupIcon2 {
+  height: 2.94%;
+  width: 4.78%;
+  top: 55.1%;
+  right: 88%;
+  bottom: 41.96%;
+  left: 7.22%;
+}
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  position: absolute;
+  overflow: hidden;
+}
+.groupIcon3 {
+  height: 3.08%;
+  width: 5.33%;
+  top: 65.29%;
+  right: 87.44%;
+  bottom: 31.63%;
+  left: 7.22%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupIcon4 {
+  height: 3.12%;
+  width: 4.42%;
+  top: 76.08%;
+  right: 88.08%;
+  bottom: 20.8%;
+  left: 7.5%;
+}
+.component9,
+.groupIcon4,
+.groupIcon5 {
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupIcon5 {
+  position: absolute;
+  height: 3.37%;
+  width: 5.17%;
+  top: 87.06%;
+  right: 87.61%;
+  bottom: 9.57%;
+  left: 7.22%;
+  overflow: hidden;
+}
+.component9 {
+  width: 360px;
+  position: relative;
+  height: 510px;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--lacivert);
+  font-family: var(--font-montserrat);
+}

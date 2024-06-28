@@ -1,0 +1,182 @@
+.groupIcon,
+.sosyalmedya11Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 526px;
+  object-fit: cover;
+}
+.groupIcon {
+  height: 122.31%;
+  width: 110.78%;
+  top: -25.4%;
+  right: -6.93%;
+  bottom: 3.09%;
+  left: -3.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  opacity: 0.15;
+}
+.coyslm4uiaaecsh1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+  display: none;
+}
+.googleAramaSonular,
+.kemerleriBalaynGoogle {
+  position: absolute;
+  top: 610px;
+  left: 183px;
+  font-weight: 600;
+}
+.googleAramaSonular {
+  top: 1284px;
+}
+.basndaChild {
+  top: 659px;
+  left: 0;
+  background-color: var(--color-dimgray-100);
+  width: 833px;
+  height: 2px;
+}
+.au,
+.basndaChild,
+.basndaItem {
+  position: absolute;
+}
+.basndaItem {
+  top: 720px;
+  left: 185px;
+  border-radius: var(--br-mini);
+  width: 642px;
+  height: 493px;
+  object-fit: cover;
+}
+.au {
+  top: 610px;
+  left: 1660px;
+  font-weight: 600;
+  display: inline-block;
+  width: 112px;
+}
+.aslndaBuYakn,
+.austos2021Sal,
+.buTaraftaOlacaklar,
+.dannySullivanSearch,
+.googleAramaMotoru,
+.googleAramaMotoru1,
+.ieriklerdenKaanAnlaml,
+.kemerleriBalaynGoogledan,
+.nsanlarnHangiArama,
+.sadeceAramaSonularna,
+.seoVeBalk,
+.sitelerinTepetaklakOlma,
+.webSayfasBalklarn,
+.webSitelerindeBu {
+  margin: 0;
+}
+.dannySullivanSearchContainer {
+  position: absolute;
+  top: 720px;
+  left: 873px;
+  font-size: var(--font-size-base);
+  line-height: 158.4%;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 862px;
+}
+.geenHaftaWeb {
+  margin: 0;
+}
+.onYlAkn {
+  text-decoration: underline;
+}
+.onYlAknBirSredir {
+  color: inherit;
+}
+.balkOluturmak1 {
+  text-decoration: underline;
+}
+.balkOluturmak {
+  color: inherit;
+}
+.htmlMetnininTesine1 {
+  text-decoration: underline;
+}
+.htmlMetnininTesine {
+  color: inherit;
+}
+.ayrcaOnYlAknBirSre,
+.nedenHtmlBalk,
+.sayfadaYerAlan {
+  margin: 0;
+}
+.akladmz1 {
+  text-decoration: underline;
+}
+.akladmz {
+  color: inherit;
+}
+.nedenHerZamanHtmlBalkEt {
+  margin: 0;
+}
+.anahtarKelimelerleDoldurulm,
+.balkEtiketlerininTamamenO,
+.okUzun {
+  margin-bottom: 0;
+}
+.okUzunAnahtarKelimelerle {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-2xl);
+}
+.genelOlarakGncellememiz,
+.googleAramaSonular1,
+.yiHtmlBalk {
+  margin: 0;
+}
+.balklarlaIlgili1 {
+  text-decoration: underline;
+}
+.balklarlaIlgili {
+  color: inherit;
+}
+.balklarlaIlgiliUzunSredi,
+.googleAramaSonularnda,
+.herhangiBirSistemde,
+.yazanDannySullivan,
+.yllarIerisindeArama,
+.yorumBuAklamalar {
+  margin: 0;
+}
+.geenHaftaWebContainer {
+  position: absolute;
+  top: 1331px;
+  left: 185px;
+  font-size: var(--font-size-base);
+  line-height: 158.4%;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 1550px;
+}
+.basnda {
+  width: 100%;
+  position: relative;
+  background-color: var(--beyaz);
+  height: 2362px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--lacivert);
+  font-family: var(--font-montserrat);
+}

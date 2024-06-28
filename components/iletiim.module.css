@@ -1,0 +1,390 @@
+.groupIcon {
+  position: absolute;
+  height: 133.2%;
+  width: 110.78%;
+  top: -36.15%;
+  right: -5.89%;
+  bottom: 2.95%;
+  left: -4.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  opacity: 0.15;
+}
+.coyslm4uiaaecsh1Icon,
+.maps1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.coyslm4uiaaecsh1Icon {
+  width: 1440px;
+  height: 1024px;
+  display: none;
+}
+.maps1Icon {
+  width: 1920px;
+  height: 526px;
+}
+.bizeUlan {
+  position: absolute;
+  top: 610px;
+  left: 183px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-dimgray-100);
+}
+.iletiimChild {
+  position: absolute;
+  top: 659px;
+  left: 0;
+  background-color: var(--color-dimgray-100);
+  width: 364px;
+  height: 2px;
+}
+.bizimleLetiimeGein {
+  position: absolute;
+  top: 231px;
+  left: 183px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--beyaz);
+}
+.iletiimItem {
+  position: absolute;
+  top: 711px;
+  left: 183px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--gri);
+  box-sizing: border-box;
+  width: 1046px;
+  height: 395px;
+}
+.adres,
+.cumhuriyetMahallesiNilfer,
+.maps {
+  position: absolute;
+  top: 835px;
+  left: 1357px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.adres,
+.maps {
+  top: 796px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--lacivert);
+  width: 234px;
+}
+.maps {
+  top: 897px;
+  left: 672px;
+  width: 69px;
+}
+.div {
+  top: 950px;
+  font-weight: 500;
+  width: 118px;
+}
+.div,
+.email,
+.infodrmbilisimcom,
+.telefon {
+  position: absolute;
+  left: 1357px;
+  display: inline-block;
+}
+.telefon {
+  top: 911px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--lacivert);
+  width: 78px;
+}
+.email,
+.infodrmbilisimcom {
+  top: 1047px;
+  font-weight: 500;
+  width: 183px;
+}
+.email {
+  top: 1008px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--lacivert);
+  width: 164px;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 1.15%;
+  width: 1.3%;
+  top: 42%;
+  right: 30.21%;
+  bottom: 56.85%;
+  left: 68.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  height: 1.06%;
+  width: 1.51%;
+  top: 46.47%;
+  right: 30%;
+  bottom: 52.47%;
+}
+.vectorIcon2 {
+  height: 1.2%;
+  width: 1.3%;
+  top: 36.88%;
+  right: 30.21%;
+  bottom: 61.92%;
+}
+.uzmanmzdanDestekAl {
+  position: absolute;
+  top: 1213px;
+  left: 369px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 424px;
+}
+.iletiimInner {
+  position: absolute;
+  top: 1788px;
+  left: 1271px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(89.88deg, #ec631e, #f68d1e);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 283px;
+  height: 39px;
+}
+.ekAklamaVeya {
+  position: absolute;
+  top: 1601px;
+  left: 368px;
+  font-weight: 500;
+  display: inline-block;
+  width: 627px;
+}
+.adnzVeSoyadnz,
+.emailAdresiniz,
+.gnder,
+.irketinizinAd,
+.telefonNumaranz {
+  position: absolute;
+  top: 1427px;
+  left: 368px;
+  font-weight: 500;
+  display: inline-block;
+  width: 234px;
+}
+.emailAdresiniz,
+.gnder,
+.irketinizinAd,
+.telefonNumaranz {
+  left: 989px;
+}
+.emailAdresiniz,
+.gnder,
+.telefonNumaranz {
+  top: 1514px;
+  left: 991px;
+}
+.gnder,
+.telefonNumaranz {
+  left: 368px;
+}
+.gnder {
+  top: 1798px;
+  left: 1347px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--beyaz);
+  text-align: center;
+  width: 131px;
+}
+.iletiimChild1,
+.iletiimChild2,
+.iletiimChild3,
+.iletiimChild4,
+.iletiimChild5,
+.rectangleDiv {
+  position: absolute;
+  top: 1299px;
+  left: 366px;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--lacivert);
+  box-sizing: border-box;
+  width: 289px;
+  height: 39px;
+}
+.iletiimChild1,
+.iletiimChild2,
+.iletiimChild3,
+.iletiimChild4,
+.iletiimChild5 {
+  top: 1460px;
+  width: 565px;
+}
+.iletiimChild2,
+.iletiimChild3,
+.iletiimChild4,
+.iletiimChild5 {
+  left: 989px;
+}
+.iletiimChild3,
+.iletiimChild4,
+.iletiimChild5 {
+  top: 1547px;
+}
+.iletiimChild4,
+.iletiimChild5 {
+  left: 366px;
+}
+.iletiimChild5 {
+  top: 1634px;
+  width: 1188px;
+  height: 120px;
+}
+.iletiimChild10,
+.iletiimChild11,
+.iletiimChild12,
+.iletiimChild6,
+.iletiimChild7,
+.iletiimChild8,
+.iletiimChild9 {
+  position: absolute;
+  top: 1299px;
+  left: 665px;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--lacivert);
+  box-sizing: border-box;
+  width: 289px;
+  height: 39px;
+}
+.iletiimChild10,
+.iletiimChild11,
+.iletiimChild12,
+.iletiimChild7,
+.iletiimChild8,
+.iletiimChild9 {
+  top: 1298px;
+  left: 964px;
+  width: 288px;
+}
+.iletiimChild10,
+.iletiimChild11,
+.iletiimChild12,
+.iletiimChild8,
+.iletiimChild9 {
+  left: 1262px;
+}
+.iletiimChild10,
+.iletiimChild11,
+.iletiimChild12,
+.iletiimChild9 {
+  top: 1359px;
+  left: 366px;
+  width: 289px;
+}
+.iletiimChild10,
+.iletiimChild11,
+.iletiimChild12 {
+  top: 1360px;
+  left: 665px;
+}
+.iletiimChild11,
+.iletiimChild12 {
+  top: 1359px;
+  left: 969px;
+  width: 287px;
+}
+.iletiimChild12 {
+  left: 1266px;
+  width: 288px;
+}
+.dijitalPazarlamaEitimi,
+.sosyalMedya,
+.webTasarm {
+  position: absolute;
+  top: 1309px;
+  left: 459px;
+  display: inline-block;
+  width: 103px;
+  height: 19px;
+}
+.dijitalPazarlamaEitimi,
+.sosyalMedya {
+  top: 1308px;
+  left: 1054px;
+  width: 108px;
+}
+.dijitalPazarlamaEitimi {
+  top: 1370px;
+  left: 416px;
+  text-align: center;
+  width: 189px;
+  height: 18px;
+}
+.dier,
+.emailPazarlama {
+  top: 1369px;
+  text-align: center;
+  height: 20px;
+}
+.emailPazarlama {
+  position: absolute;
+  left: 1046px;
+  display: inline-block;
+  width: 133px;
+}
+.dier {
+  left: 1382px;
+  width: 56px;
+}
+.dier,
+.googleAds,
+.mobilUygulama,
+.seo {
+  position: absolute;
+  display: inline-block;
+}
+.seo {
+  top: 1371px;
+  left: 791px;
+  text-align: center;
+  width: 37px;
+  height: 18px;
+}
+.googleAds,
+.mobilUygulama {
+  top: 1308px;
+  left: 1360px;
+  width: 92px;
+  height: 19px;
+}
+.mobilUygulama {
+  top: 1309px;
+  left: 743px;
+  width: 133px;
+}
+.iletiim {
+  width: 1920px;
+  background-color: var(--beyaz);
+  max-width: 100%;
+  height: 2169px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--gri);
+  font-family: var(--font-montserrat);
+}

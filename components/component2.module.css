@@ -1,0 +1,140 @@
+.component6Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--lacivert);
+}
+.cumhuriyetMahallesiNo {
+  position: absolute;
+  width: 12.92%;
+  top: 31.91%;
+  left: 53.23%;
+  font-weight: 500;
+  color: var(--color-whitesmoke-400);
+  display: inline-block;
+}
+.kurumsal,
+.letm {
+  top: 12.34%;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.kurumsal {
+  position: absolute;
+  width: 12.19%;
+  left: 16.82%;
+  display: inline-block;
+}
+.letm {
+  width: 6.88%;
+  left: 35.83%;
+}
+.adres,
+.div,
+.gizlilikSzlemesi,
+.letm {
+  position: absolute;
+  display: inline-block;
+}
+.adres {
+  width: 12.92%;
+  top: 12.34%;
+  left: 53.23%;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.div,
+.gizlilikSzlemesi {
+  width: 12.19%;
+  top: 31.91%;
+  left: 16.82%;
+  font-weight: 500;
+}
+.div {
+  width: 6.88%;
+  left: 35.83%;
+}
+.hizmetArtlar,
+.ptalVeAde {
+  width: 12.19%;
+  left: 16.82%;
+  display: inline-block;
+}
+.hizmetArtlar {
+  position: absolute;
+  top: 47.23%;
+  font-weight: 500;
+}
+.ptalVeAde {
+  top: 62.55%;
+}
+.infodrmbilisimcom,
+.mteriDestek,
+.ptalVeAde {
+  position: absolute;
+  font-weight: 500;
+}
+.mteriDestek {
+  width: 12.19%;
+  top: 77.87%;
+  left: 16.82%;
+  display: inline-block;
+}
+.infodrmbilisimcom {
+  top: 47.23%;
+  left: 35.83%;
+}
+.component6Item,
+.tmHaklarSakldr {
+  position: absolute;
+  top: 48.94%;
+  left: 74.53%;
+}
+.component6Item {
+  height: 13.96%;
+  width: 12.02%;
+  top: 15.74%;
+  right: 13.45%;
+  bottom: 70.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component6Child1,
+.component6Inner,
+.rectangleDiv {
+  position: absolute;
+  height: 71.91%;
+  width: 0.05%;
+  top: 12.34%;
+  right: 70.94%;
+  bottom: 15.74%;
+  left: 29.01%;
+  background-color: var(--color-gainsboro-200);
+}
+.component6Child1,
+.rectangleDiv {
+  right: 50.52%;
+  left: 49.43%;
+}
+.component6Child1 {
+  top: 13.19%;
+  right: 30.05%;
+  bottom: 14.89%;
+  left: 69.9%;
+}
+.component6 {
+  position: absolute;
+  top: 1361px;
+  left: 0;
+  width: 1920px;
+  height: 235px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--beyaz);
+  font-family: var(--font-montserrat);
+}

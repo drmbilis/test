@@ -1,0 +1,1318 @@
+.groupIcon {
+  position: absolute;
+  height: 77.62%;
+  width: 110.78%;
+  top: 18.22%;
+  right: -6.51%;
+  bottom: 4.16%;
+  left: -4.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  opacity: 0.15;
+}
+.balksz11Icon,
+.coyslm4uiaaecsh1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.coyslm4uiaaecsh1Icon {
+  width: 1440px;
+  height: 1024px;
+  display: none;
+}
+.balksz11Icon {
+  width: 1920px;
+  height: 872px;
+}
+.googleAdsReklamlaryla,
+.iinizleIlgiliArama,
+.kullanclarnKarsnaKn {
+  margin: 0;
+}
+.googleAdsReklamlarylaContainer {
+  position: absolute;
+  top: 403px;
+  left: 364px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--beyaz);
+  text-align: left;
+}
+.webChild {
+  position: absolute;
+  top: 178px;
+  left: 1712px;
+  border-radius: var(--br-3xs);
+  background-color: var(--beyaz);
+  width: 2px;
+  height: 631px;
+}
+.webInner,
+.webItem {
+  position: absolute;
+  border-radius: 50%;
+}
+.webItem {
+  top: 256px;
+  left: 1705px;
+  background-color: var(--beyaz);
+  width: 16px;
+  height: 16px;
+}
+.webInner {
+  top: 259px;
+  left: 1708px;
+  background-color: #1d0f2e;
+  width: 10px;
+  height: 10px;
+}
+.ellipseDiv,
+.webChild1,
+.webChild2 {
+  position: absolute;
+  top: 412px;
+  left: 1705px;
+  border-radius: 50%;
+  background-color: var(--beyaz);
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+.webChild1,
+.webChild2 {
+  top: 568px;
+}
+.webChild2 {
+  top: 724px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 554px;
+  left: 637px;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--beyaz);
+  box-sizing: border-box;
+  width: 191px;
+  height: 35px;
+}
+.detaylBilgiAl,
+.uzmanmzdanDestekAl {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.detaylBilgiAl {
+  top: 561px;
+  left: 671px;
+  font-size: var(--font-size-base);
+  color: var(--beyaz);
+  width: 123px;
+  height: 21px;
+}
+.uzmanmzdanDestekAl {
+  top: 2811px;
+  left: 367px;
+  font-size: var(--font-size-13xl);
+  text-align: left;
+  width: 424px;
+}
+.webChild3,
+.webChild4,
+.webChild5 {
+  position: absolute;
+  top: 2304px;
+  left: 364px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mini);
+  background-color: var(--beyaz);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 359px;
+  height: 440px;
+}
+.webChild4,
+.webChild5 {
+  left: 778px;
+  width: 360px;
+}
+.webChild5 {
+  left: 1193px;
+  width: 359px;
+}
+.onlineTibarYnetimi {
+  position: absolute;
+  top: 2510px;
+  left: 426px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 235px;
+}
+.markanzHakkndaDijital,
+.uzmanEkibimizIle {
+  position: absolute;
+  top: 2549px;
+  left: 430px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 226px;
+}
+.uzmanEkibimizIle {
+  left: 849px;
+}
+.bizDijitalPazarlamada,
+.canlRaporlarlaAnlk {
+  margin: 0;
+}
+.bizDijitalPazarlamadaContainer {
+  position: absolute;
+  top: 2549px;
+  left: 1262px;
+  font-weight: 500;
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 226px;
+}
+.dnmOptimizasyonu,
+.gerekZamanlStatistikler {
+  position: absolute;
+  top: 2510px;
+  left: 827px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 268px;
+}
+.gerekZamanlStatistikler {
+  left: 1230px;
+  width: 286px;
+}
+.webChild6,
+.webChild7,
+.webChild8 {
+  position: absolute;
+  top: 2334px;
+  left: 469px;
+  width: 149px;
+  height: 148.5px;
+}
+.webChild7,
+.webChild8 {
+  left: 889px;
+  width: 145.8px;
+  height: 145px;
+}
+.webChild8 {
+  top: 3386px;
+  left: 1269px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(89.88deg, #ec631e, #f68d1e);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 283px;
+  height: 39px;
+}
+.adnzVeSoyadnz,
+.ekAklamaVeya {
+  position: absolute;
+  left: 366px;
+  display: inline-block;
+}
+.ekAklamaVeya {
+  top: 3199px;
+  font-weight: 500;
+  text-align: left;
+  width: 627px;
+}
+.adnzVeSoyadnz {
+  top: 3025px;
+}
+.adnzVeSoyadnz,
+.emailAdresiniz,
+.irketinizinAd {
+  font-weight: 500;
+  text-align: left;
+  width: 234px;
+}
+.irketinizinAd {
+  position: absolute;
+  top: 3025px;
+  left: 987px;
+  display: inline-block;
+}
+.emailAdresiniz {
+  top: 3112px;
+  left: 989px;
+}
+.emailAdresiniz,
+.gnder,
+.telefonNumaranz {
+  position: absolute;
+  display: inline-block;
+}
+.telefonNumaranz {
+  top: 3112px;
+  left: 366px;
+  font-weight: 500;
+  text-align: left;
+  width: 234px;
+}
+.gnder {
+  top: 3396px;
+  left: 1345px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--beyaz);
+  width: 131px;
+}
+.webChild9 {
+  position: absolute;
+  top: 2897px;
+  left: 364px;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--lacivert);
+  box-sizing: border-box;
+  width: 289px;
+  height: 39px;
+}
+.webChild10,
+.webChild11,
+.webChild12,
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  position: absolute;
+  top: 3058px;
+  left: 364px;
+  border-radius: var(--br-mini);
+  border: 1px solid var(--lacivert);
+  box-sizing: border-box;
+  width: 565px;
+  height: 39px;
+}
+.webChild11,
+.webChild12,
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  left: 987px;
+}
+.webChild12,
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  top: 3145px;
+}
+.webChild13,
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  left: 364px;
+}
+.webChild14,
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  top: 3232px;
+  width: 1188px;
+  height: 120px;
+}
+.webChild15,
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  top: 2897px;
+  left: 663px;
+  width: 289px;
+  height: 39px;
+}
+.webChild16,
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  top: 2896px;
+  left: 962px;
+  width: 288px;
+}
+.webChild17,
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  left: 1260px;
+}
+.webChild18,
+.webChild19,
+.webChild20,
+.webChild21 {
+  top: 2957px;
+  left: 364px;
+  width: 289px;
+}
+.webChild19,
+.webChild20,
+.webChild21 {
+  top: 2958px;
+  left: 663px;
+}
+.webChild20,
+.webChild21 {
+  top: 2957px;
+  left: 967px;
+  width: 287px;
+}
+.webChild21 {
+  left: 1264px;
+  width: 288px;
+}
+.webTasarm {
+  top: 2907px;
+  left: 457px;
+  text-align: left;
+  width: 103px;
+  height: 19px;
+}
+.dijitalPazarlamaEitimi,
+.sosyalMedya,
+.webTasarm {
+  position: absolute;
+  display: inline-block;
+}
+.sosyalMedya {
+  top: 2906px;
+  left: 1052px;
+  text-align: left;
+  width: 108px;
+  height: 19px;
+}
+.dijitalPazarlamaEitimi {
+  top: 2968px;
+  left: 414px;
+  width: 189px;
+  height: 18px;
+}
+.dier,
+.emailPazarlama,
+.googleAds,
+.mobilUygulama,
+.seo {
+  position: absolute;
+  top: 2967px;
+  left: 1044px;
+  display: inline-block;
+  width: 133px;
+  height: 20px;
+}
+.dier,
+.googleAds,
+.mobilUygulama,
+.seo {
+  left: 1380px;
+  width: 56px;
+}
+.googleAds,
+.mobilUygulama,
+.seo {
+  top: 2969px;
+  left: 789px;
+  width: 37px;
+  height: 18px;
+}
+.googleAds,
+.mobilUygulama {
+  top: 2906px;
+  left: 1358px;
+  text-align: left;
+  width: 92px;
+  height: 19px;
+}
+.mobilUygulama {
+  top: 2907px;
+  left: 741px;
+  width: 133px;
+}
+.webChild22 {
+  position: absolute;
+  top: 2337px;
+  left: 1277px;
+  width: 196.6px;
+  height: 133.7px;
+}
+.webChild23,
+.webChild24,
+.webChild25 {
+  position: absolute;
+  top: 1315px;
+  left: 0;
+  background-color: var(--lacivert);
+  width: 1920px;
+  height: 906px;
+}
+.webChild24,
+.webChild25 {
+  top: 1302px;
+  left: -1px;
+}
+.webChild25 {
+  top: 1356px;
+  left: 771px;
+  border-radius: var(--br-xl) 0 var(--br-xl) 0;
+  background-color: var(--beyaz);
+  width: 373px;
+  height: 252px;
+}
+.webChild26,
+.webChild27,
+.webChild28,
+.webChild29,
+.webChild30,
+.webChild31,
+.webChild32,
+.webChild33 {
+  position: absolute;
+  top: 1355px;
+  left: 364px;
+  border-radius: var(--br-xl) 0 var(--br-xl) 0;
+  background-color: var(--beyaz);
+  width: 374px;
+  height: 253px;
+}
+.webChild27,
+.webChild28,
+.webChild29,
+.webChild30,
+.webChild31,
+.webChild32,
+.webChild33 {
+  left: 1178px;
+}
+.webChild28,
+.webChild29,
+.webChild30,
+.webChild31,
+.webChild32,
+.webChild33 {
+  top: 1642px;
+  left: 364px;
+}
+.webChild29,
+.webChild30,
+.webChild31,
+.webChild32,
+.webChild33 {
+  left: 771px;
+}
+.webChild30,
+.webChild31,
+.webChild32,
+.webChild33 {
+  left: 1178px;
+}
+.webChild31,
+.webChild32,
+.webChild33 {
+  top: 1928px;
+  left: 364px;
+}
+.webChild32,
+.webChild33 {
+  left: 771px;
+}
+.webChild33 {
+  left: 1178px;
+}
+.mterilerinizleEnSalkl,
+.sosyalMedyaYnetimi {
+  position: absolute;
+  top: 1793px;
+  left: 411px;
+  font-weight: 500;
+  display: inline-block;
+  width: 280px;
+}
+.sosyalMedyaYnetimi {
+  top: 1754px;
+  left: 424px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 253px;
+}
+.erikPazarlama,
+.tantmVideolarnzdanKampan {
+  position: absolute;
+  top: 2056px;
+  left: 403px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.erikPazarlama {
+  top: 2017px;
+  left: 434px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 234px;
+}
+.haritalaraKayt,
+.seoGrnrlVe {
+  position: absolute;
+  top: 1493px;
+  left: 411px;
+  font-weight: 500;
+  display: inline-block;
+  width: 280px;
+}
+.haritalaraKayt {
+  top: 1454px;
+  left: 469px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 163px;
+}
+.webChild34 {
+  position: absolute;
+  height: 1.34%;
+  width: 2.6%;
+  top: 37.1%;
+  right: 70%;
+  bottom: 61.55%;
+  left: 27.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.webChild35,
+.webChild36 {
+  position: absolute;
+  top: 1673px;
+  left: 523px;
+  width: 55.2px;
+  height: 54px;
+}
+.webChild36 {
+  top: 1946px;
+  left: 524px;
+  width: 53px;
+  height: 52px;
+}
+.seo1,
+.yaptnzIiInternette {
+  position: absolute;
+  top: 1789px;
+  left: 810px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.seo1 {
+  top: 1750px;
+  left: 841px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 234px;
+}
+.aylkVeyaKampanyalarnza,
+.emailMarketing {
+  position: absolute;
+  top: 2052px;
+  left: 810px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.emailMarketing {
+  top: 2013px;
+  left: 841px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 234px;
+}
+.webChild37,
+.webChild38 {
+  position: absolute;
+  top: 1676px;
+  left: 934px;
+  width: 48px;
+  height: 48px;
+}
+.webChild38 {
+  height: 1.34%;
+  width: 2.6%;
+  top: 52.28%;
+  right: 48.8%;
+  bottom: 46.37%;
+  left: 48.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.googleAdsReklamlar,
+.markaBilinirliiniziArtrmak,
+.seoGrnrlVe1 {
+  position: absolute;
+  top: 1480px;
+  left: 810px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.googleAdsReklamlar,
+.markaBilinirliiniziArtrmak {
+  top: 1493px;
+  left: 1217px;
+}
+.googleAdsReklamlar {
+  top: 1454px;
+  left: 1243px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  width: 244px;
+}
+.htiyacnzOlanTm,
+.sunucuDomain {
+  position: absolute;
+  top: 1789px;
+  left: 1217px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.sunucuDomain {
+  top: 1750px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.dijitalPazarlama,
+.htiyacnzOlanTm1,
+.smsPazarlama {
+  position: absolute;
+  top: 2052px;
+  left: 1217px;
+  font-weight: 500;
+  display: inline-block;
+  width: 296px;
+}
+.dijitalPazarlama,
+.smsPazarlama {
+  top: 2013px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.dijitalPazarlama {
+  top: 1441px;
+  left: 841px;
+  width: 234px;
+}
+.webChild39 {
+  position: absolute;
+  top: 1950px;
+  left: 1345px;
+  width: 40px;
+  height: 48px;
+}
+.webChild40,
+.webChild41 {
+  position: absolute;
+  top: 1378px;
+  left: 931px;
+  width: 54px;
+  height: 54px;
+}
+.webChild41 {
+  top: 1386px;
+  left: 1342px;
+  width: 47px;
+  height: 43px;
+}
+.webChild42,
+.webChild43 {
+  position: absolute;
+  top: 1675px;
+  left: 1341px;
+  width: 49px;
+  height: 49px;
+}
+.webChild43 {
+  top: 957px;
+  left: 364px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 1188px;
+  height: 263px;
+}
+.webChild44,
+.webChild45 {
+  position: absolute;
+  background-color: var(--lacivert);
+}
+.webChild44 {
+  top: 937px;
+  left: 621px;
+  border-radius: var(--br-xl);
+  width: 302px;
+  height: 297px;
+}
+.webChild45 {
+  top: 1000px;
+  left: 1243px;
+  width: 2px;
+  height: 196px;
+}
+.webChild46 {
+  position: absolute;
+  top: 957px;
+  left: 748px;
+  width: 50px;
+  height: 54px;
+}
+.gncelTasarmTrendlerine {
+  position: absolute;
+  top: 1078px;
+  left: 660px;
+  font-weight: 500;
+  color: var(--beyaz);
+  display: inline-block;
+  width: 223px;
+}
+.webMobilGelitirme,
+.webTasarm1 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+}
+.webTasarm1 {
+  top: 1039px;
+  left: 706px;
+  color: var(--beyaz);
+  width: 135px;
+}
+.webMobilGelitirme {
+  top: 1038px;
+  left: 970px;
+  width: 234px;
+}
+.mterilerimizinPotansiyeller {
+  position: absolute;
+  top: 1077px;
+  left: 972px;
+  font-weight: 500;
+  display: inline-block;
+  width: 230px;
+}
+.webChild47 {
+  position: absolute;
+  top: 975px;
+  left: 1061px;
+  width: 52px;
+  height: 52px;
+}
+.mobilUygulamalar {
+  position: absolute;
+  top: 1038px;
+  left: 1280px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 234px;
+}
+.mterilerimizinPotansiyeller1 {
+  position: absolute;
+  top: 1077px;
+  left: 1282px;
+  font-weight: 500;
+  display: inline-block;
+  width: 230px;
+}
+.webChild48 {
+  position: absolute;
+  top: 975px;
+  left: 1371px;
+  width: 52px;
+  height: 52px;
+}
+.balca,
+.hizmetlerimiz {
+  margin: 0;
+}
+.balcaHizmetlerimiz {
+  position: absolute;
+  top: 1057px;
+  left: 418px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  text-align: left;
+}
+.component5Child,
+.component5Item {
+  position: absolute;
+  height: 57.14%;
+  width: 100%;
+  top: 26.79%;
+  right: 0;
+  bottom: 16.07%;
+  left: 0;
+  background-color: var(--beyaz);
+}
+.component5Item {
+  height: 26.79%;
+  top: 0;
+  bottom: 73.21%;
+  background-color: var(--lacivert);
+}
+.basnda,
+.blog,
+.eitimler,
+.hakkmzda,
+.letiim,
+.referanslarmz {
+  position: absolute;
+  top: 47.32%;
+  left: 29.95%;
+  font-weight: 600;
+  cursor: pointer;
+}
+.basnda,
+.blog,
+.eitimler,
+.letiim,
+.referanslarmz {
+  left: 45.26%;
+}
+.basnda,
+.blog,
+.eitimler,
+.letiim {
+  left: 53.33%;
+}
+.basnda,
+.blog,
+.letiim {
+  left: 58.65%;
+}
+.blog,
+.letiim {
+  left: 63.49%;
+}
+.letiim {
+  left: 66.88%;
+}
+.component5Inner {
+  position: absolute;
+  height: 100%;
+  width: 2.29%;
+  top: 0;
+  right: 9.64%;
+  bottom: 0;
+  left: 88.07%;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-whitesmoke-200);
+}
+.component5Child1 {
+  position: absolute;
+  height: 1.79%;
+  width: 1.67%;
+  top: 54.46%;
+  right: 9.95%;
+  bottom: 43.75%;
+  left: 88.39%;
+  border-radius: var(--br-mini);
+  background-color: var(--lacivert);
+}
+.component5Child2 {
+  position: absolute;
+  height: 35.71%;
+  width: 9.01%;
+  top: 38.39%;
+  right: 80.78%;
+  bottom: 25.89%;
+  left: 10.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.en,
+.tr {
+  position: absolute;
+  font-weight: 500;
+}
+.tr {
+  top: 33.04%;
+  left: 88.49%;
+  font-size: var(--font-size-xl);
+}
+.en {
+  top: 61.61%;
+  left: 88.59%;
+  color: var(--gri);
+}
+.hizmetlerimiz1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.vectorIcon {
+  position: absolute;
+  height: 40%;
+  width: 8.57%;
+  top: 35%;
+  right: 0;
+  bottom: 25%;
+  left: 91.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hizmetlerimizParent {
+  position: absolute;
+  height: 17.86%;
+  width: 7.29%;
+  top: 47.32%;
+  right: 56.25%;
+  bottom: 34.82%;
+  left: 36.46%;
+  cursor: pointer;
+}
+.component5Child3 {
+  position: absolute;
+  height: 29.46%;
+  width: 6.93%;
+  top: 40.18%;
+  right: 14.64%;
+  bottom: 30.36%;
+  left: 78.44%;
+  border-radius: var(--br-mini);
+  background: linear-gradient(107.58deg, #174873, #416ad5);
+  border: 1px solid var(--mavi);
+  box-sizing: border-box;
+}
+.teklifAl {
+  position: absolute;
+  top: 45.54%;
+  left: 80.21%;
+  font-weight: 600;
+  color: var(--beyaz);
+  cursor: pointer;
+}
+.component5,
+.component6Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.component5 {
+  width: 1920px;
+  height: 112px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--lacivert);
+}
+.component6Child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--lacivert);
+}
+.cumhuriyetMahallesiNo {
+  position: absolute;
+  width: 12.92%;
+  top: 31.91%;
+  left: 53.23%;
+  font-weight: 500;
+  color: var(--color-whitesmoke-400);
+  display: inline-block;
+}
+.kurumsal,
+.letm {
+  top: 12.34%;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.kurumsal {
+  position: absolute;
+  width: 12.19%;
+  left: 16.82%;
+  display: inline-block;
+}
+.letm {
+  width: 6.88%;
+  left: 35.83%;
+}
+.adres,
+.div,
+.gizlilikSzlemesi,
+.letm {
+  position: absolute;
+  display: inline-block;
+}
+.adres {
+  width: 12.92%;
+  top: 12.34%;
+  left: 53.23%;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.div,
+.gizlilikSzlemesi {
+  width: 12.19%;
+  top: 31.91%;
+  left: 16.82%;
+  font-weight: 500;
+}
+.div {
+  width: 6.88%;
+  left: 35.83%;
+}
+.hizmetArtlar,
+.ptalVeAde {
+  width: 12.19%;
+  left: 16.82%;
+  display: inline-block;
+}
+.hizmetArtlar {
+  position: absolute;
+  top: 47.23%;
+  font-weight: 500;
+}
+.ptalVeAde {
+  top: 62.55%;
+}
+.infodrmbilisimcom,
+.mteriDestek,
+.ptalVeAde {
+  position: absolute;
+  font-weight: 500;
+}
+.mteriDestek {
+  width: 12.19%;
+  top: 77.87%;
+  left: 16.82%;
+  display: inline-block;
+}
+.infodrmbilisimcom {
+  top: 47.23%;
+  left: 35.83%;
+}
+.component6Item,
+.tmHaklarSakldr {
+  position: absolute;
+  top: 48.94%;
+  left: 74.53%;
+}
+.component6Item {
+  height: 13.96%;
+  width: 12.02%;
+  top: 15.74%;
+  right: 13.45%;
+  bottom: 70.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component6Child1,
+.component6Child2,
+.component6Inner {
+  position: absolute;
+  height: 71.91%;
+  width: 0.05%;
+  top: 12.34%;
+  right: 70.94%;
+  bottom: 15.74%;
+  left: 29.01%;
+  background-color: var(--color-gainsboro-200);
+}
+.component6Child1,
+.component6Child2 {
+  right: 50.52%;
+  left: 49.43%;
+}
+.component6Child2 {
+  top: 13.19%;
+  right: 30.05%;
+  bottom: 14.89%;
+  left: 69.9%;
+}
+.component6 {
+  position: absolute;
+  top: 3487px;
+  left: 0;
+  width: 1920px;
+  height: 235px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--beyaz);
+}
+.webChild49,
+.webChild50 {
+  position: absolute;
+  top: 1355px;
+  left: 688px;
+  width: 50px;
+  height: 49px;
+}
+.webChild50 {
+  top: 1559px;
+  left: 364px;
+  object-fit: contain;
+}
+.webChild51 {
+  top: 1642px;
+  left: 688px;
+}
+.webChild51,
+.webChild52,
+.webChild53,
+.webChild54 {
+  position: absolute;
+  width: 50px;
+  height: 49px;
+}
+.webChild52 {
+  top: 1846px;
+  left: 364px;
+  object-fit: contain;
+}
+.webChild53,
+.webChild54 {
+  top: 1928px;
+  left: 688px;
+}
+.webChild54 {
+  top: 2132px;
+  left: 364px;
+  object-fit: contain;
+}
+.webChild55 {
+  top: 1928px;
+  left: 1095px;
+}
+.webChild55,
+.webChild56,
+.webChild57,
+.webChild58 {
+  position: absolute;
+  width: 50px;
+  height: 49px;
+}
+.webChild56 {
+  top: 2132px;
+  left: 771px;
+  object-fit: contain;
+}
+.webChild57,
+.webChild58 {
+  top: 1928px;
+  left: 1502px;
+}
+.webChild58 {
+  top: 2132px;
+  left: 1178px;
+  object-fit: contain;
+}
+.webChild59 {
+  top: 1642px;
+  left: 1095px;
+}
+.webChild59,
+.webChild60,
+.webChild61,
+.webChild62 {
+  position: absolute;
+  width: 50px;
+  height: 49px;
+}
+.webChild60 {
+  top: 1846px;
+  left: 771px;
+  object-fit: contain;
+}
+.webChild61,
+.webChild62 {
+  top: 1642px;
+  left: 1502px;
+}
+.webChild62 {
+  top: 1846px;
+  left: 1178px;
+  object-fit: contain;
+}
+.webChild63 {
+  top: 1356px;
+  left: 1094px;
+}
+.webChild63,
+.webChild64,
+.webChild65,
+.webChild66 {
+  position: absolute;
+  width: 50px;
+  height: 49px;
+}
+.webChild64 {
+  top: 1559px;
+  left: 771px;
+  object-fit: contain;
+}
+.webChild65,
+.webChild66 {
+  top: 1355px;
+  left: 1502px;
+}
+.webChild66 {
+  top: 1559px;
+  left: 1178px;
+  object-fit: contain;
+}
+.web {
+  width: 1920px;
+  background-color: var(--beyaz);
+  max-width: 100%;
+  height: 3722px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--gri);
+  font-family: var(--font-montserrat);
+}

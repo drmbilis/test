@@ -1,0 +1,135 @@
+.groupIcon {
+  position: absolute;
+  height: 142.67%;
+  width: 110.78%;
+  top: -45.38%;
+  right: -5.42%;
+  bottom: 2.72%;
+  left: -5.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  opacity: 0.15;
+}
+.coyslm4uiaaecsh1Icon,
+.mobil11Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.coyslm4uiaaecsh1Icon {
+  width: 1440px;
+  height: 1024px;
+  display: none;
+}
+.mobil11Icon {
+  width: 1920px;
+  height: 526px;
+}
+.alirzaDurmazKimdir {
+  position: absolute;
+  top: 610px;
+  left: 183px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+}
+.eitimlerChild {
+  position: absolute;
+  top: 659px;
+  left: 0;
+  background-color: var(--color-dimgray-100);
+  width: 563px;
+  height: 2px;
+}
+.birOkFirmada,
+.deBursadaKendi,
+.eskiehirAnadoluNiversitesi,
+.firmasnaAitIletmesinde,
+.googleReklamlarFacebook,
+.haberSiteleriOptimizasyonlar,
+.trkiyeninVeBursann,
+.uygulanmasSektrelOlarak,
+.wordpressTemaTasarmlar,
+.yandaLkVe,
+.yllarndaFacebookIle,
+.yurtiiVeYurtdnda {
+  margin-bottom: 0;
+}
+.yandaLkVeOrtaRenimimi {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-2xl);
+}
+.yandaLkVeContainer {
+  position: absolute;
+  top: 698px;
+  left: 183px;
+  line-height: 158.4%;
+  font-weight: 500;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 1552px;
+}
+.eitimlerInner,
+.eitimlerItem {
+  position: absolute;
+  top: 1118px;
+  left: 183px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mini);
+  background-color: var(--beyaz);
+  border: 1px solid var(--color-mediumslateblue-100);
+  box-sizing: border-box;
+  width: 743px;
+  height: 430px;
+}
+.eitimlerInner {
+  left: 993px;
+}
+.eitimlerChild1,
+.eitimlerChild2,
+.rectangleDiv {
+  position: absolute;
+  top: 1291.1px;
+  left: 512.4px;
+  width: 85.2px;
+  height: 85.2px;
+}
+.eitimlerChild2,
+.rectangleDiv {
+  left: 1322.8px;
+}
+.rectangleDiv {
+  top: 1643px;
+  left: 623px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(89.88deg, #ec631e, #f68d1e);
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 674px;
+  height: 39px;
+}
+.kurumsalEitimTeklifi {
+  position: absolute;
+  top: 1653px;
+  left: 847px;
+  font-weight: 600;
+  color: var(--beyaz);
+  text-align: center;
+  display: inline-block;
+  width: 227px;
+}
+.eitimler {
+  width: 100%;
+  position: relative;
+  background-color: var(--beyaz);
+  height: 2025px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-montserrat);
+}

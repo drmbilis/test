@@ -1,0 +1,163 @@
+.component5Child,
+.component5Item {
+  position: absolute;
+  height: 57.14%;
+  width: 100%;
+  top: 26.79%;
+  right: 0;
+  bottom: 16.07%;
+  left: 0;
+  background-color: var(--beyaz);
+}
+.component5Item {
+  height: 26.79%;
+  top: 0;
+  bottom: 73.21%;
+  background-color: var(--lacivert);
+}
+.basnda,
+.blog,
+.eitimler,
+.hakkmzda,
+.letiim,
+.referanslarmz {
+  position: absolute;
+  top: 47.32%;
+  left: 29.95%;
+  font-weight: 600;
+  cursor: pointer;
+}
+.basnda,
+.blog,
+.eitimler,
+.letiim,
+.referanslarmz {
+  left: 45.26%;
+}
+.basnda,
+.blog,
+.eitimler,
+.letiim {
+  left: 53.33%;
+}
+.basnda,
+.blog,
+.letiim {
+  left: 58.65%;
+}
+.blog,
+.letiim {
+  left: 63.49%;
+}
+.letiim {
+  left: 66.88%;
+}
+.component5Inner,
+.rectangleDiv {
+  position: absolute;
+  height: 100%;
+  width: 2.29%;
+  top: 0;
+  right: 9.64%;
+  bottom: 0;
+  left: 88.07%;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-whitesmoke-200);
+}
+.rectangleDiv {
+  height: 1.79%;
+  width: 1.67%;
+  top: 54.46%;
+  right: 9.95%;
+  bottom: 43.75%;
+  left: 88.39%;
+  border-radius: var(--br-mini);
+  background-color: var(--lacivert);
+}
+.groupIcon {
+  position: absolute;
+  height: 35.71%;
+  width: 9.01%;
+  top: 38.39%;
+  right: 80.78%;
+  bottom: 25.89%;
+  left: 10.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.en,
+.tr {
+  position: absolute;
+  font-weight: 500;
+}
+.tr {
+  top: 33.04%;
+  left: 88.49%;
+  font-size: var(--font-size-xl);
+}
+.en {
+  top: 61.61%;
+  left: 88.59%;
+  color: var(--gri);
+}
+.hizmetlerimiz {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.vectorIcon {
+  position: absolute;
+  height: 40%;
+  width: 8.57%;
+  top: 35%;
+  right: 0;
+  bottom: 25%;
+  left: 91.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hizmetlerimizParent {
+  position: absolute;
+  height: 17.86%;
+  width: 7.29%;
+  top: 47.32%;
+  right: 56.25%;
+  bottom: 34.82%;
+  left: 36.46%;
+  cursor: pointer;
+}
+.component5Child1 {
+  position: absolute;
+  height: 29.46%;
+  width: 6.93%;
+  top: 40.18%;
+  right: 14.64%;
+  bottom: 30.36%;
+  left: 78.44%;
+  border-radius: var(--br-mini);
+  background: linear-gradient(107.58deg, #174873, #416ad5);
+  border: 1px solid var(--mavi);
+  box-sizing: border-box;
+}
+.teklifAl {
+  position: absolute;
+  top: 45.54%;
+  left: 80.21%;
+  font-weight: 600;
+  color: var(--beyaz);
+  cursor: pointer;
+}
+.component5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 112px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--lacivert);
+  font-family: var(--font-montserrat);
+}

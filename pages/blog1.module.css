@@ -1,0 +1,250 @@
+.groupIcon {
+  position: absolute;
+  height: 142.81%;
+  width: 110.78%;
+  top: -46.42%;
+  right: -4.06%;
+  bottom: 3.61%;
+  left: -6.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  opacity: 0.15;
+}
+.coyslm4uiaaecsh1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+  display: none;
+}
+.blogChild {
+  top: 779px;
+  left: 745px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--beyaz);
+  border: 1px solid var(--gri);
+  width: 429px;
+  height: 652px;
+}
+.blogChild,
+.blogInner,
+.blogItem {
+  position: absolute;
+  border-radius: var(--br-mini);
+  box-sizing: border-box;
+}
+.blogItem {
+  top: 1374px;
+  left: 849px;
+  background: linear-gradient(89.88deg, #1954ed, #6b90f0);
+  border: 1px solid var(--mavi);
+  width: 218px;
+  height: 33px;
+}
+.blogInner {
+  top: 779px;
+  left: 185px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--beyaz);
+  border: 1px solid var(--gri);
+  width: 429px;
+  height: 652px;
+}
+.sosyalMedyaStratejiniz {
+  position: absolute;
+  top: 1173px;
+  left: 762px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--gri);
+  display: inline-block;
+  width: 392px;
+}
+.devamnOku,
+.ns,
+.sosyalMedyaPazarlama {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.sosyalMedyaPazarlama {
+  top: 1115px;
+  left: 762px;
+  width: 353px;
+}
+.devamnOku,
+.ns {
+  font-size: var(--font-size-base);
+}
+.devamnOku {
+  top: 1380px;
+  left: 874px;
+  color: var(--beyaz);
+  text-align: center;
+  width: 170px;
+  height: 21px;
+  cursor: pointer;
+}
+.ns {
+  top: 1073px;
+  left: 762px;
+  width: 63px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 1374px;
+  left: 289px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(89.88deg, #1954ed, #6b90f0);
+  border: 1px solid var(--mavi);
+  box-sizing: border-box;
+  width: 218px;
+  height: 33px;
+}
+.sofinf2605202231Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 526px;
+  object-fit: cover;
+}
+.sosyalMedyaEtkileim {
+  position: absolute;
+  top: 1194px;
+  left: 202px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  color: var(--gri);
+  display: inline-block;
+  width: 392px;
+}
+.devamnOku1,
+.may,
+.sosyalMedyadaPaylam {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.sosyalMedyadaPaylam {
+  top: 1115px;
+  left: 202px;
+  width: 392px;
+}
+.devamnOku1,
+.may {
+  font-size: var(--font-size-base);
+}
+.devamnOku1 {
+  top: 1380px;
+  left: 314px;
+  color: var(--beyaz);
+  text-align: center;
+  width: 170px;
+  height: 21px;
+  cursor: pointer;
+}
+.may {
+  top: 1073px;
+  left: 202px;
+  width: 63px;
+}
+.blog1,
+.google,
+.sosyalMedya,
+.tm {
+  position: absolute;
+  font-weight: 600;
+  color: var(--color-dimgray-100);
+}
+.blog1 {
+  top: 610px;
+  left: 183px;
+  font-size: var(--font-size-13xl);
+}
+.google,
+.sosyalMedya,
+.tm {
+  top: 674px;
+  left: 1596px;
+}
+.google,
+.tm {
+  left: 1441px;
+  cursor: pointer;
+}
+.tm {
+  left: 1299px;
+}
+.blogChild1,
+.blogChild2 {
+  position: absolute;
+  top: 659px;
+  left: 0;
+  background-color: var(--color-dimgray-100);
+  width: 259px;
+  height: 2px;
+}
+.blogChild2 {
+  top: 709px;
+  left: 1246px;
+  background-color: var(--color-dimgray-200);
+  width: 674px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 796px;
+  left: 202px;
+  border-radius: var(--br-mini);
+  width: 392px;
+  height: 254px;
+  object-fit: cover;
+}
+.blogChild3 {
+  position: absolute;
+  top: 1100px;
+  left: 761px;
+  background-color: var(--color-gainsboro-100);
+  width: 393px;
+  height: 1px;
+}
+.blogChild4 {
+  position: absolute;
+  top: 796px;
+  left: 762px;
+  border-radius: var(--br-mini);
+  width: 392px;
+  height: 254px;
+  object-fit: cover;
+}
+.blogChild5,
+.blogChild6 {
+  position: absolute;
+  top: 1100px;
+  left: 201px;
+  background-color: var(--color-gainsboro-100);
+  width: 393px;
+  height: 1px;
+}
+.blogChild6 {
+  top: 709px;
+  left: 1560px;
+  background-color: var(--lacivert);
+  width: 212px;
+  height: 2px;
+}
+.blog {
+  width: 100%;
+  position: relative;
+  background-color: var(--beyaz);
+  height: 2023px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--lacivert);
+  font-family: var(--font-montserrat);
+}

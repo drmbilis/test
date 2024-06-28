@@ -1,0 +1,221 @@
+.image {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--lacivert);
+  z-index: unset;
+}
+.kurumsal {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.gizlilikSzlemesi,
+.hizmetArtlar,
+.mteriDestek,
+.ptalVeAde {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.header,
+.terms {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.terms {
+  align-self: stretch;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-xs);
+}
+.header {
+  width: 234px;
+  gap: var(--gap-7xl);
+}
+.contentChild {
+  width: 1px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  z-index: 2;
+}
+.content {
+  height: 169px;
+  width: 131px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.letm {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+  z-index: 1;
+}
+.emailAddress,
+.infodrmbilisimcom {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.emailAddress {
+  align-self: stretch;
+}
+.infodrmbilisimcom {
+  white-space: nowrap;
+}
+.contactInfo,
+.email {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email {
+  align-self: stretch;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-xs);
+}
+.contactInfo {
+  width: 261px;
+  padding: 0 129px 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-7xl);
+}
+.contentItem {
+  width: 1px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  z-index: 1;
+}
+.content1 {
+  height: 169px;
+  width: 73px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.adres,
+.cumhuriyetMahallesiNo {
+  width: 248px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  z-index: 1;
+}
+.cumhuriyetMahallesiNo {
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-whitesmoke-400);
+}
+.addressInfo {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-7xl);
+}
+.separatorChild {
+  width: 1px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  z-index: 1;
+}
+.separator {
+  height: 171px;
+  width: 89px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.copyrightChild {
+  align-self: stretch;
+  height: 32.8px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.copyrightChild,
+.tmHaklarSakldr {
+  position: relative;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.component6,
+.copyright,
+.footer {
+  display: flex;
+  align-items: flex-start;
+}
+.copyright {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 45.2px;
+}
+.component6,
+.footer {
+  box-sizing: border-box;
+}
+.footer {
+  width: 230.8px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+  font-size: var(--font-size-xs);
+}
+.component6 {
+  width: 1920px;
+  max-width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  padding: 29px var(--padding-xl) 35px 85px;
+  position: relative;
+  line-height: normal;
+  letter-spacing: normal;
+  row-gap: 20px;
+  z-index: unset;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--beyaz);
+  font-family: var(--font-montserrat);
+}
+@media screen and (max-width: 1350px) {
+  .component6 {
+    flex-wrap: wrap;
+    padding-left: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .component6 {
+    padding-left: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .contactInfo {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
